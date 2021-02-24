@@ -1,5 +1,1 @@
-\111progect menegment
-
-read
-
-some conflict text
+111progect menegment
